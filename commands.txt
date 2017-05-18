@@ -1,0 +1,16 @@
+1. Upgrade
+2. Update
+3. Git
+4. Vim
+5. Curl
+6. npm
+7. Node
+8. Ruby
+9. Jekyll
+10. xclip
+11. Neobundle
+12. Dotfile config
+ - Clone dotfiles into dev
+ - Symlink vimrc to .vimrc
+ - Symlink vim to .vim
+ - Symlink i3config to .config/i3/config
